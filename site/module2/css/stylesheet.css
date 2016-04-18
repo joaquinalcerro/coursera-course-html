@@ -16,7 +16,7 @@ h1 {
 }
 /* base styles */
 p {
-  padding: 22px;
+  padding: 30px 10px 10px 10px;
   font-family: "Times New Roman", Times, serif;
   color: white;
   border: 1px solid black;
