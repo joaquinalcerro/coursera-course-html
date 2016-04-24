@@ -1,0 +1,28 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: sans-serif;
+}
+
+/* Header styles */
+
+li.visible-xs.menu-item {
+  background-color: black;
+  color: #F5F5F5;
+  text-align: center;
+}
+
+li.visible-xs.menu-item a:hover {
+  background-color: blue;
+}
+
+#main-section {
+  height: auto;
+  margin: 25px;
+  background: #337AB7;
+}
+
+.menu-text {
+  padding: 15px;
+}
